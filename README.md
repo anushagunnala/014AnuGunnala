@@ -1,5 +1,3 @@
-# 014AnuGunnala
-
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/aIJDrOomj81MQZz2uO/200w.webp?cid=ecf05e47uj8539fyq6aodyrlckj8pg1uuafiri6ctq5yi9ss&ep=v1_gifs_related&rid=200w.webp&ct=s" width="100"/>
 </div>
